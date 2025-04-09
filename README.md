@@ -1,4 +1,3 @@
-Sure! Here's a well-structured `README.md` file for your **Word Puzzle Solver Streamlit App** that generates dictionary-valid words and their meanings from a given set of letters:
 
 ---
 
@@ -25,7 +24,7 @@ This **Streamlit application** helps you generate all **meaningful English words
 
 ### 🛠 Technologies Used
 
-- [Streamlit](https://streamlit.io/) – for the interactive frontend
+- [Streamlit]([https://streamlit.io/](https://ai-word-puzzle-solver.streamlit.app/)) – for the interactive frontend
 - [NLTK](https://www.nltk.org/) – for dictionary checks and word definitions
 - `itertools` – for generating all letter permutations
 
@@ -139,6 +138,4 @@ Feel free to contribute or fork this project!
 MIT License.  
 Feel free to use, modify, and share!
 
----
 
-Let me know if you want me to generate the `requirements.txt` file as well or customize this for deployment (e.g., Hugging Face Spaces or Streamlit Cloud).
