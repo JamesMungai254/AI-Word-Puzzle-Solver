@@ -24,7 +24,7 @@ This **Streamlit application** helps you generate all **meaningful English words
 
 ### 🛠 Technologies Used
 
-- [Streamlit]([https://streamlit.io/](https://ai-word-puzzle-solver.streamlit.app/)) – for the interactive frontend
+- [STREMLIT]([https://www.nltk.org/](https://ai-word-puzzle-solver.streamlit.app/)) – for the interactive frontend
 - [NLTK](https://www.nltk.org/) – for dictionary checks and word definitions
 - `itertools` – for generating all letter permutations
 
